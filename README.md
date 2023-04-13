@@ -1,0 +1,2 @@
+# MenuDice-sample
+MenuDice sample
